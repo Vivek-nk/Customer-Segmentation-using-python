@@ -1,6 +1,7 @@
 # Customer Segmentation
 
 • This project is done using RFM Analysis on Python 
+
 • Segmentation is done on the basis of behavioral segmentation and not on demographic or any other segmentation 
 
 
